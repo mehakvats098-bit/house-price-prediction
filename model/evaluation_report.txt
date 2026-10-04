@@ -1,0 +1,7 @@
+House Price Prediction - Model Evaluation
+==================================================
+
+MAE: 6.6641
+MSE: 71.6198
+RMSE: 8.4629
+R2 Score: 0.9446
